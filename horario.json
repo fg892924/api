@@ -1,0 +1,432 @@
+{
+    "ZFMU_HORARIO_ESTUDIANTResponse": {
+        "IT_HORARIO_SALIDA": {
+            "item": {
+                "CLIENT": 300,
+                "PARTNER": 1000224626,
+                "STUDENT12": "001007111111",
+                "MATRIKEL": null,
+                "STOBJID": 10111111,
+                "ST_STEXT": "APELLIDO, NOMBRE",
+                "CMPERYR": 2023,
+                "CMPERID": "003",
+                "SCOBJID": "02001556",
+                "SC_STEXT": "INGENIERÍA INDUSTRIAL SM",
+                "SHORT": "PGIND4SM01",
+                "HORARIO": {
+                    "item": [
+                        {
+                            "HORA_INICIO": "08:00:00",
+                            "LUNES": null,
+                            "MARTES": null,
+                            "MIERCOLES": {
+                                "item": [
+                                    "DERE0902-S05:INSIII;PLAN LECTOR II S05",
+                                    null,
+                                    "Salón D205 SMT",
+                                    null,
+                                    "TORREGROZA RIVERA ANDRES EDUARDO",
+                                    null
+                                ]
+                            },
+                            "JUEVES": {
+                                "item": [
+                                    "DERE0903-S03:INSIV;PLAN LECTOR III S03",
+                                    null,
+                                    "Salón D305 SMT",
+                                    null,
+                                    "CORTINA MARBELLO TANIA MATILDE",
+                                    null
+                                ]
+                            },
+                            "VIERNES": {
+                                "item": [
+                                    "DERE0904-S02:INSIV;PLAN LECTOR IV S02",
+                                    null,
+                                    "Auditorio Santa Marta C101",
+                                    null,
+                                    "PINZON MAHECHA JORGE ENRIQUE",
+                                    null
+                                ]
+                            },
+                            "SABADO": null,
+                            "DOMINGO": null,
+                            "BORRAR": null,
+                            "PATRON": null,
+                            "NUMER_SEMANA": "000000",
+                            "LUNES_SEMANA": "0000-00-00",
+                            "DOMINGO_SEMANA": "0000-00-00"
+                        },
+                        {
+                            "HORA_INICIO": "09:00:00",
+                            "LUNES": null,
+                            "MARTES": null,
+                            "MIERCOLES": {
+                                "item": [
+                                    "DERE0902-S05:INSIII;PLAN LECTOR II S05",
+                                    null,
+                                    "Salón D205 SMT",
+                                    null,
+                                    "TORREGROZA RIVERA ANDRES EDUARDO",
+                                    null
+                                ]
+                            },
+                            "JUEVES": {
+                                "item": [
+                                    "DERE0903-S03:INSIV;PLAN LECTOR III S03",
+                                    null,
+                                    "Salón D305 SMT",
+                                    null,
+                                    "CORTINA MARBELLO TANIA MATILDE",
+                                    null
+                                ]
+                            },
+                            "VIERNES": {
+                                "item": [
+                                    "DERE0904-S02:INSIV;PLAN LECTOR IV S02",
+                                    null,
+                                    "Auditorio Santa Marta C101",
+                                    null,
+                                    "PINZON MAHECHA JORGE ENRIQUE",
+                                    null
+                                ]
+                            },
+                            "SABADO": null,
+                            "DOMINGO": null,
+                            "BORRAR": null,
+                            "PATRON": "X",
+                            "NUMER_SEMANA": "000000",
+                            "LUNES_SEMANA": "0000-00-00",
+                            "DOMINGO_SEMANA": "0000-00-00"
+                        },
+                        {
+                            "HORA_INICIO": "10:00:00",
+                            "LUNES": null,
+                            "MARTES": null,
+                            "MIERCOLES": {
+                                "item": [
+                                    "INDU0215-S01:INSIV;INGENIERÍA DE PRODUCTO Y PROCESO S",
+                                    null,
+                                    "Salón H102 SMT",
+                                    null,
+                                    "LOBO DIAZ JOSE LUIS",
+                                    null
+                                ]
+                            },
+                            "JUEVES": null,
+                            "VIERNES": null,
+                            "SABADO": null,
+                            "DOMINGO": null,
+                            "BORRAR": null,
+                            "PATRON": null,
+                            "NUMER_SEMANA": "000000",
+                            "LUNES_SEMANA": "0000-00-00",
+                            "DOMINGO_SEMANA": "0000-00-00"
+                        },
+                        {
+                            "HORA_INICIO": "11:00:00",
+                            "LUNES": null,
+                            "MARTES": null,
+                            "MIERCOLES": {
+                                "item": [
+                                    "INDU0215-S01:INSIV;INGENIERÍA DE PRODUCTO Y PROCESO S",
+                                    null,
+                                    "Salón H102 SMT",
+                                    null,
+                                    "LOBO DIAZ JOSE LUIS",
+                                    null
+                                ]
+                            },
+                            "JUEVES": null,
+                            "VIERNES": null,
+                            "SABADO": null,
+                            "DOMINGO": null,
+                            "BORRAR": null,
+                            "PATRON": "X",
+                            "NUMER_SEMANA": "000000",
+                            "LUNES_SEMANA": "0000-00-00",
+                            "DOMINGO_SEMANA": "0000-00-00"
+                        },
+                        {
+                            "HORA_INICIO": "12:00:00",
+                            "LUNES": null,
+                            "MARTES": null,
+                            "MIERCOLES": null,
+                            "JUEVES": null,
+                            "VIERNES": null,
+                            "SABADO": null,
+                            "DOMINGO": null,
+                            "BORRAR": "X",
+                            "PATRON": null,
+                            "NUMER_SEMANA": "000000",
+                            "LUNES_SEMANA": "0000-00-00",
+                            "DOMINGO_SEMANA": "0000-00-00"
+                        },
+                        {
+                            "HORA_INICIO": "13:00:00",
+                            "LUNES": null,
+                            "MARTES": null,
+                            "MIERCOLES": {
+                                "item": [
+                                    "DPHU0330-S02:INSIV;CÁT. RODRIGO NOGUERA LABORDE S02",
+                                    null,
+                                    "Auditorio Santa Marta C101",
+                                    null,
+                                    "GRANADOS JIMENEZ ALEXANDRA PATRICIA",
+                                    null
+                                ]
+                            },
+                            "JUEVES": null,
+                            "VIERNES": null,
+                            "SABADO": null,
+                            "DOMINGO": null,
+                            "BORRAR": null,
+                            "PATRON": "X",
+                            "NUMER_SEMANA": "000000",
+                            "LUNES_SEMANA": "0000-00-00",
+                            "DOMINGO_SEMANA": "0000-00-00"
+                        },
+                        {
+                            "HORA_INICIO": "14:00:00",
+                            "LUNES": {
+                                "item": [
+                                    "INDU0215-S01:INSIV;INGENIERÍA DE PRODUCTO Y PROCESO S",
+                                    null,
+                                    "Salón H101 SMT",
+                                    null,
+                                    "LOBO DIAZ JOSE LUIS",
+                                    null
+                                ]
+                            },
+                            "MARTES": {
+                                "item": [
+                                    "DPMT0038-S01:INSIV;ESTADÍSTICA 2 S01",
+                                    null,
+                                    "Salón D205 SMT",
+                                    null,
+                                    "MACHADO JIMENEZ GUSTAVO ADOLFO",
+                                    null
+                                ]
+                            },
+                            "MIERCOLES": {
+                                "item": [
+                                    "DPHU0330-S02:INSIV;CÁT. RODRIGO NOGUERA LABORDE S02",
+                                    null,
+                                    "Auditorio Santa Marta C101",
+                                    null,
+                                    "GRANADOS JIMENEZ ALEXANDRA PATRICIA",
+                                    null
+                                ]
+                            },
+                            "JUEVES": {
+                                "item": [
+                                    "DPMT0038-S01:INSIV;ESTADÍSTICA 2 S01",
+                                    null,
+                                    "Sala de sistemas B202 SMT",
+                                    null,
+                                    "MACHADO JIMENEZ GUSTAVO ADOLFO",
+                                    null
+                                ]
+                            },
+                            "VIERNES": {
+                                "item": [
+                                    "IELC0012-S01:INSIV;MÁQUINAS ELÉCTRICAS S01",
+                                    null,
+                                    "GASCA MANTILLA MAIRA CECILIA",
+                                    null
+                                ]
+                            },
+                            "SABADO": null,
+                            "DOMINGO": null,
+                            "BORRAR": null,
+                            "PATRON": null,
+                            "NUMER_SEMANA": "000000",
+                            "LUNES_SEMANA": "0000-00-00",
+                            "DOMINGO_SEMANA": "0000-00-00"
+                        },
+                        {
+                            "HORA_INICIO": "15:00:00",
+                            "LUNES": {
+                                "item": [
+                                    "INDU0215-S01:INSIV;INGENIERÍA DE PRODUCTO Y PROCESO S",
+                                    null,
+                                    "Salón H101 SMT",
+                                    null,
+                                    "LOBO DIAZ JOSE LUIS",
+                                    null
+                                ]
+                            },
+                            "MARTES": {
+                                "item": [
+                                    "DPMT0038-S01:INSIV;ESTADÍSTICA 2 S01",
+                                    null,
+                                    "Salón D205 SMT",
+                                    null,
+                                    "MACHADO JIMENEZ GUSTAVO ADOLFO",
+                                    null
+                                ]
+                            },
+                            "MIERCOLES": {
+                                "item": [
+                                    "DPHU0330-S02:INSIV;CÁT. RODRIGO NOGUERA LABORDE S02",
+                                    null,
+                                    "Auditorio Santa Marta C101",
+                                    null,
+                                    "GRANADOS JIMENEZ ALEXANDRA PATRICIA",
+                                    null
+                                ]
+                            },
+                            "JUEVES": {
+                                "item": [
+                                    "DPMT0038-S01:INSIV;ESTADÍSTICA 2 S01",
+                                    null,
+                                    "Sala de sistemas B202 SMT",
+                                    null,
+                                    "MACHADO JIMENEZ GUSTAVO ADOLFO",
+                                    null
+                                ]
+                            },
+                            "VIERNES": {
+                                "item": [
+                                    "IELC0012-S01:INSIV;MÁQUINAS ELÉCTRICAS S01",
+                                    null,
+                                    "GASCA MANTILLA MAIRA CECILIA",
+                                    null
+                                ]
+                            },
+                            "SABADO": null,
+                            "DOMINGO": null,
+                            "BORRAR": null,
+                            "PATRON": "X",
+                            "NUMER_SEMANA": "000000",
+                            "LUNES_SEMANA": "0000-00-00",
+                            "DOMINGO_SEMANA": "0000-00-00"
+                        },
+                        {
+                            "HORA_INICIO": "16:00:00",
+                            "LUNES": {
+                                "item": [
+                                    "INDU0022-S01:INSIV;INVESTIGACIÓN OPERACIONES 1 S01",
+                                    null,
+                                    "Salón D205 SMT",
+                                    null,
+                                    "BOCANEGRA BUSTAMANTE CARLOS ALBERTO",
+                                    null
+                                ]
+                            },
+                            "MARTES": {
+                                "item": [
+                                    "INDU0072-S01:INSIV;TERMODINÁMICA S01",
+                                    null,
+                                    "Salón H101 SMT",
+                                    null,
+                                    "GUTIERREZ CERA RAFAEL SEGUNDO",
+                                    null
+                                ]
+                            },
+                            "MIERCOLES": {
+                                "item": [
+                                    "INDU0022-S01:INSIV;INVESTIGACIÓN OPERACIONES 1 S01",
+                                    null,
+                                    "Salón D205 SMT",
+                                    null,
+                                    "BOCANEGRA BUSTAMANTE CARLOS ALBERTO",
+                                    null
+                                ]
+                            },
+                            "JUEVES": {
+                                "item": [
+                                    "INDU0072-S01:INSIV;TERMODINÁMICA S01",
+                                    null,
+                                    "Salón H102 SMT",
+                                    null,
+                                    "GUTIERREZ CERA RAFAEL SEGUNDO",
+                                    null
+                                ]
+                            },
+                            "VIERNES": {
+                                "item": [
+                                    "IELC0012-S01:INSIV;MÁQUINAS ELÉCTRICAS S01",
+                                    null,
+                                    "GASCA MANTILLA MAIRA CECILIA",
+                                    null
+                                ]
+                            },
+                            "SABADO": null,
+                            "DOMINGO": null,
+                            "BORRAR": null,
+                            "PATRON": null,
+                            "NUMER_SEMANA": "000000",
+                            "LUNES_SEMANA": "0000-00-00",
+                            "DOMINGO_SEMANA": "0000-00-00"
+                        },
+                        {
+                            "HORA_INICIO": "17:00:00",
+                            "LUNES": {
+                                "item": [
+                                    "INDU0022-S01:INSIV;INVESTIGACIÓN OPERACIONES 1 S01",
+                                    null,
+                                    "Salón D205 SMT",
+                                    null,
+                                    "BOCANEGRA BUSTAMANTE CARLOS ALBERTO",
+                                    null
+                                ]
+                            },
+                            "MARTES": {
+                                "item": [
+                                    "INDU0072-S01:INSIV;TERMODINÁMICA S01",
+                                    null,
+                                    "Salón H101 SMT",
+                                    null,
+                                    "GUTIERREZ CERA RAFAEL SEGUNDO",
+                                    null
+                                ]
+                            },
+                            "MIERCOLES": {
+                                "item": [
+                                    "INDU0022-S01:INSIV;INVESTIGACIÓN OPERACIONES 1 S01",
+                                    null,
+                                    "Salón D205 SMT",
+                                    null,
+                                    "BOCANEGRA BUSTAMANTE CARLOS ALBERTO",
+                                    null
+                                ]
+                            },
+                            "JUEVES": {
+                                "item": [
+                                    "INDU0072-S01:INSIV;TERMODINÁMICA S01",
+                                    null,
+                                    "Salón H102 SMT",
+                                    null,
+                                    "GUTIERREZ CERA RAFAEL SEGUNDO",
+                                    null
+                                ]
+                            },
+                            "VIERNES": {
+                                "item": [
+                                    "IELC0012-S01:INSIV;MÁQUINAS ELÉCTRICAS S01",
+                                    null,
+                                    "GASCA MANTILLA MAIRA CECILIA",
+                                    null
+                                ]
+                            },
+                            "SABADO": null,
+                            "DOMINGO": null,
+                            "BORRAR": null,
+                            "PATRON": "X",
+                            "NUMER_SEMANA": "000000",
+                            "LUNES_SEMANA": "0000-00-00",
+                            "DOMINGO_SEMANA": "0000-00-00"
+                        }
+                    ]
+                },
+                "INDEPENDIENTES": null,
+                "FECHA_INICIO": "0000-00-00",
+                "FECHA_FIN": "0000-00-00",
+                "LUNES_SEMANA": "0000-00-00",
+                "DOMINGO_SEMANA": "0000-00-00",
+                "NUMER_SEMANA": "000000"
+            }
+        }
+    }
+}
