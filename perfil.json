@@ -1,14 +1,14 @@
 {
     "Registros": {
         "Registro": {
-            "nombre1": "JUAN",
-            "nombre2": "SEBASTIAN",
-            "apellido1": "LEYVA",
-            "apellido2": "CASAS",
+            "nombre1": "NOMBRE",
+            "nombre2": "NOMBRE 2",
+            "apellido1": "APELLIDO",
+            "apellido2": "APELLIDO 2",
             "inicio_vigencia": "2020-08-01",
             "fin_vigencia": "2022-08-01",
             "dependencia_programa": "Programa - Ingeniería de Sistemas",
-            "correo_institucional": "juan.leyva2@correo.usa.edu.co",
+            "correo_institucional": "nombre.apellido@correo.usa.edu.co",
             "estado": "Activos",
             "usuario_da": "juan.leyva2",
             "funcionario_docente": "X",
@@ -28,7 +28,7 @@
                 "@nil": "true"
             },
             "subdivision_fun": "CATE",
-            "cardno": 1996340704,
+            "cardno": 19963407,
             "carga_docente": "X",
             "codigo": 0,
             "mensaje": "OK"

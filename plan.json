@@ -1,0 +1,53 @@
+{
+    "ZfmuPlanEstudianteResponse": {
+        "ItPlanEstudiante": {
+            "item": [
+                {
+                    "Student12": "001011111111",
+                    "StObjid": 10111111,
+                    "StStext": "NOMBRE APELLIDO SÁNCHEZ",
+                    "ScObjid": "02000153",
+                    "ScShort": "PRCID1BG01",
+                    "ScStext": "CENTRO DE IDIOMAS - NIVELES DE INGLES",
+                    "Reason": "0006",
+                    "Reasontext": "Otros",
+                    "EscalaId": "01",
+                    "EscalaTx": "PREGRADO",
+                    "Cpmax": 50.0,
+                    "Cpgained": 0.0,
+                    "Cpunit": "CRH"
+                },
+                {
+                    "Student12": "001011111111",
+                    "StObjid": 10111111,
+                    "StStext": "NOMBRE APELLIDO SÁNCHEZ",
+                    "ScObjid": "02000021",
+                    "ScShort": "PGMK02BG02",
+                    "ScStext": "MARKETING Y NEGOCIOS INTERNACIONALES",
+                    "Reason": "0018",
+                    "Reasontext": "Graduación",
+                    "EscalaId": "01",
+                    "EscalaTx": "PREGRADO",
+                    "Cpmax": 145.0,
+                    "Cpgained": 147.0,
+                    "Cpunit": "CRH"
+                },
+                {
+                    "Student12": "001011111111",
+                    "StObjid": 10111111,
+                    "StStext": "NOMBRE APELLIDO SÁNCHEZ",
+                    "ScObjid": "02000101",
+                    "ScShort": "PGFI02BG02",
+                    "ScStext": "FINANZAS Y COMERCIO EXTERIOR",
+                    "Reason": "0018",
+                    "Reasontext": "Graduación",
+                    "EscalaId": "01",
+                    "EscalaTx": "PREGRADO",
+                    "Cpmax": 153.0,
+                    "Cpgained": 169.0,
+                    "Cpunit": "CRH"
+                }
+            ]
+        }
+    }
+}
