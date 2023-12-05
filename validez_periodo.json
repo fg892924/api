@@ -1,0 +1,10 @@
+{
+    "items": {
+        "item": {
+            "annio_academico": 2023,
+            "periodo_academico": "003",
+            "inicio_validez": "2023-07-17",
+            "fin_validez": "2023-12-17"
+        }
+    }
+}
